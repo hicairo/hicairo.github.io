@@ -8,7 +8,7 @@ tags:
   - OpenSSL
 ---
 
-> 这篇文章转载自 [HiFeng'Blog](https://www.hicairo.com/post/50.html),转载请保留链接 ;)
+> 这篇文章转载自 [HiFeng'Blog](https://www.hicairo.com/post/50.html) ,转载请保留链接 ;)
 
 CentOS7 自带的是 OpenSSL 1.0.2 ，某些软件需要更高的版本 OpenSSL ，因此就有了这篇文章。为考虑到系统兼容性，建议不覆盖原来的版本，而采用安装到 /usr/local/openssl111 的路径。
 
